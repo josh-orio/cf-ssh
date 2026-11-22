@@ -1,0 +1,6 @@
+.env
+.terraform/
+*.tfstate
+*.tfstate.*
+tf-debug.log
+.terraform.lock.hcl
